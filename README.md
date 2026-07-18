@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" alt="Piyush Nagpal — hardware meets machine learning, running on the chip itself" width="100%">
+<img src="./header.svg" alt="Piyush Nagpal — Chip Design × Machine Learning × Embedded Systems" width="100%">
 
 <br><br>
 
@@ -12,6 +12,14 @@
 <a href="https://www.reddit.com/user/Suitable_Fix6669/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
 
 </div>
+
+---
+
+## Currently Building
+
+**Gestura** — TinyML gesture-recognition wearable, model running on-device *(capstone, in progress)*
+**Tiny Tapeout** — my first digital design taken all the way to fabricated silicon *(next)*
+**The Workbench** — an interactive 3D engineering portfolio *(in progress)*
 
 ---
 
@@ -44,6 +52,14 @@ Roughly oldest to newest, so the arc shows.
 
 **Tiny Tapeout** *(next)*. Taking a small digital design all the way to fabricated silicon.
 &nbsp;&nbsp;![Digital Design](https://img.shields.io/badge/Digital_Design-1f6f78?style=flat-square) ![Verilog](https://img.shields.io/badge/Verilog-1f6f78?style=flat-square) ![ASIC](https://img.shields.io/badge/ASIC-1f6f78?style=flat-square)
+
+---
+
+## Timeline
+
+<div align="center">
+<img src="./timeline.svg" alt="Build timeline: IC Calculator (2023), DIY Flipper Zero (2025), Claude Usage Display and Datasheet to Register Map (2026), Gestura (now), Tiny Tapeout (next)" width="100%">
+</div>
 
 ---
 
@@ -83,6 +99,14 @@ Licensed table tennis coach, still training most weeks. Chess, and strength work
 <sub>Currently building <b>Gestura</b> and taking my first design to silicon. &nbsp;·&nbsp; Say hi: <a href="mailto:nagpal.2352@gmail.com">nagpal.2352@gmail.com</a></sub>
 </div>
 
-<!-- Optional live GitHub stats. The shared server rate-limits and shows a broken image (that's what you saw),
-     so it's left out on purpose. To add reliable stats, self-host the widget and drop the card in here:
-     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
+---
+
+<div align="center">
+
+### GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=PiyushPapaya&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&title_color=2dd4bf&icon_color=2dd4bf" height="160" alt="Piyush's GitHub stats">
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushPapaya&hide_border=true&theme=dark&layout=compact&langs_count=8&title_color=2dd4bf" height="160" alt="Top languages">
+
+</div>
