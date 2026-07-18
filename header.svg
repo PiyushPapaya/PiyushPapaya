@@ -1,61 +1,28 @@
-<svg width="1000" height="240" viewBox="0 0 1000 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Piyush Nagpal — hardware meets machine learning, running on the chip itself">
+<svg width="1000" height="240" viewBox="0 0 1000 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Piyush Nagpal — Chip Design × Machine Learning × Embedded Systems">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="240" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0a1018"/>
-      <stop offset="0.55" stop-color="#0b1a22"/>
-      <stop offset="1" stop-color="#0c2b30"/>
+      <stop offset="0" stop-color="#0a1018"/><stop offset="0.55" stop-color="#0b1a22"/><stop offset="1" stop-color="#0c2b30"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#2dd4bf"/>
-      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+      <stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
     </linearGradient>
   </defs>
-
   <rect width="1000" height="240" rx="14" fill="url(#bg)"/>
-
-  <!-- faint background traces -->
   <g stroke="#2dd4bf" stroke-width="1" opacity="0.10" fill="none">
-    <path d="M0 44 H128 V74 H214"/>
-    <path d="M0 204 H96 V172 H184"/>
-    <path d="M1000 214 H884 V182 H774"/>
+    <path d="M0 44 H128 V74 H214"/><path d="M0 204 H96 V172 H184"/><path d="M1000 214 H884 V182 H774"/>
   </g>
-  <g fill="#2dd4bf" opacity="0.18">
-    <circle cx="214" cy="74" r="3"/>
-    <circle cx="184" cy="172" r="3"/>
-    <circle cx="774" cy="182" r="3"/>
-  </g>
-
-  <!-- kicker -->
-  <text x="58" y="74" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13" letter-spacing="4" fill="#5eead4">INCOMING ETIT  ·  TU MÜNCHEN  ·  18</text>
-
-  <!-- name -->
-  <text x="54" y="134" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="58" font-weight="700" fill="#f1f5f9" letter-spacing="0.5">Piyush Nagpal</text>
-
-  <!-- accent underline -->
-  <rect x="58" y="150" width="150" height="3" rx="1.5" fill="url(#accent)"/>
-
-  <!-- tagline -->
-  <text x="58" y="184" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#93a4b5">hardware × machine learning, running on the chip itself</text>
-
-  <!-- chip motif: a die with a neural net inside -->
+  <g fill="#2dd4bf" opacity="0.18"><circle cx="214" cy="74" r="3"/><circle cx="184" cy="172" r="3"/><circle cx="774" cy="182" r="3"/></g>
+  <text x="56" y="72" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="58" font-weight="700" fill="#f1f5f9">Piyush Nagpal</text>
+  <rect x="58" y="88" width="150" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="58" y="124" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="600" fill="#5eead4">Chip Design × Machine Learning × Embedded Systems</text>
+  <text x="58" y="158" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#93a4b5">Getting machine learning to run directly on the silicon.</text>
+  <text x="58" y="192" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13" letter-spacing="3" fill="#64748b">INCOMING ETIT · TU MÜNCHEN · 18</text>
   <g transform="translate(812,60)">
     <g fill="#2dd4bf" opacity="0.9">
-      <rect x="-10" y="18" width="10" height="6" rx="1"/>
-      <rect x="-10" y="42" width="10" height="6" rx="1"/>
-      <rect x="-10" y="66" width="10" height="6" rx="1"/>
-      <rect x="-10" y="90" width="10" height="6" rx="1"/>
-      <rect x="120" y="18" width="10" height="6" rx="1"/>
-      <rect x="120" y="42" width="10" height="6" rx="1"/>
-      <rect x="120" y="66" width="10" height="6" rx="1"/>
-      <rect x="120" y="90" width="10" height="6" rx="1"/>
-      <rect x="18" y="-10" width="6" height="10" rx="1"/>
-      <rect x="42" y="-10" width="6" height="10" rx="1"/>
-      <rect x="66" y="-10" width="6" height="10" rx="1"/>
-      <rect x="90" y="-10" width="6" height="10" rx="1"/>
-      <rect x="18" y="120" width="6" height="10" rx="1"/>
-      <rect x="42" y="120" width="6" height="10" rx="1"/>
-      <rect x="66" y="120" width="6" height="10" rx="1"/>
-      <rect x="90" y="120" width="6" height="10" rx="1"/>
+      <rect x="-10" y="18" width="10" height="6" rx="1"/><rect x="-10" y="42" width="10" height="6" rx="1"/><rect x="-10" y="66" width="10" height="6" rx="1"/><rect x="-10" y="90" width="10" height="6" rx="1"/>
+      <rect x="120" y="18" width="10" height="6" rx="1"/><rect x="120" y="42" width="10" height="6" rx="1"/><rect x="120" y="66" width="10" height="6" rx="1"/><rect x="120" y="90" width="10" height="6" rx="1"/>
+      <rect x="18" y="-10" width="6" height="10" rx="1"/><rect x="42" y="-10" width="6" height="10" rx="1"/><rect x="66" y="-10" width="6" height="10" rx="1"/><rect x="90" y="-10" width="6" height="10" rx="1"/>
+      <rect x="18" y="120" width="6" height="10" rx="1"/><rect x="42" y="120" width="6" height="10" rx="1"/><rect x="66" y="120" width="6" height="10" rx="1"/><rect x="90" y="120" width="6" height="10" rx="1"/>
     </g>
     <rect x="0" y="0" width="120" height="120" rx="12" fill="#0a1f24" stroke="#2dd4bf" stroke-width="1.6"/>
     <rect x="12" y="12" width="96" height="96" rx="8" fill="none" stroke="#2dd4bf" stroke-width="0.8" opacity="0.35"/>
