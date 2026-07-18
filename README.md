@@ -1,113 +1,88 @@
-# 👋 Hi, I'm Piyush
-
-I'm a developer, maker, and learner who loves building things that solve real problems. Started coding 1.5 years ago and haven't stopped since.
-
-## 🚀 What I'm Building
-
-Right now I'm working on:
-- SaaS platforms and scalable web applications
-- ML/AI systems for practical use cases
-- Cloud deployment pipelines (AWS, Azure)
-- IoT projects with Arduino and ESP32
-- Automation tools that actually save time
-
-I also tutor STEM subjects through hands-on projects because the best way to learn is by doing.
-
-## 🤝 Let's Collaborate
-
-I'm looking for people to work with on:
-- Open-source data visualization projects
-- Machine learning applications
-- Scientific computing tools
-- Educational tech that makes learning easier
-- Workflow automation
-
-**Need help with:** Designing robust SaaS architectures, optimizing cloud deployments, and building maintainable large-scale frontend systems.
-
-## 📖 Currently Learning
-
-- Advanced ML techniques and model optimization
-- Modern DevOps workflows and infrastructure as code
-- High-performance frontend engineering
-- Deep dives into math and physics fundamentals
-
-## 💬 Ask Me About
-
-Python · Machine Learning · Data Visualization · Arduino/ESP32 · Automation · Flask · Cloud Deployment · STEM Education · Chess
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-nagpal-a0b2761b4/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagpal.2352@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/lil.papayaa)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Suitable_Fix6669/)
-
----
-
-# 💻 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-### ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Web & Backend
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### Hardware & Tools
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/kali%20linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=PiyushPapaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=PiyushPapaya&theme=dark&hide_border=false)
+<img src="./header.svg" alt="Piyush Nagpal — hardware meets machine learning, running on the chip itself" width="100%">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushPapaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br><br>
+
+<a href="https://www.linkedin.com/in/piyush-nagpal-a0b2761b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://your-workbench-url.dev"><img src="https://img.shields.io/badge/The_Workbench-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
+<a href="mailto:nagpal.2352@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://discord.com/users/lil.papayaa"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://www.reddit.com/user/Suitable_Fix6669/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
 
 </div>
 
-## 🏆 GitHub Trophies
+---
 
-![](https://github-profile-trophy.vercel.app/?username=PiyushPapaya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## What I'm after
 
-### 🔝 Top Contributed Repos
+There are two sides to what I do. On the software side I build, code and train ML models and push them for better accuracy. On the hardware side I build with microcontrollers and sensors. The thing I keep coming back to is putting those two together: running a trained model directly on a microcontroller so a small, cheap chip can read a sensor stream and work out what it means on its own, with no cloud and no phone attached. Get that right and it drops into almost any piece of electronics.
 
-![](https://github-contributor-stats.vercel.app/api?username=PiyushPapaya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Outside of that goal I just like poking at both worlds. On the hardware side I'll pick up a component I've never used, run it until I find where it breaks, then wire a few of them into something of my own. Sometimes that means rebuilding a device that already exists, but as my own system from scratch. On the software side I keep up with where AI is heading and pay close attention to the startup side of it.
 
 ---
 
+## Things I've built
+
+Roughly oldest to newest, so the arc shows.
+
+**IC Calculator.** My first real build. A working calculator from two ICs (a binary counter and an impulse/clock generator), wired together by hand.
+&nbsp;&nbsp;![Digital Logic](https://img.shields.io/badge/Digital_Logic-1f6f78?style=flat-square) ![74xx ICs](https://img.shields.io/badge/74xx_ICs-1f6f78?style=flat-square)
+
+**DIY Flipper Zero.** A CC1101 radio, a PN532 NFC reader and a stronger IR stage on one board. I used it to read our school cafeteria cards, clone a few keys and drive the building's IR devices (all with permission).
+&nbsp;&nbsp;![CC1101](https://img.shields.io/badge/CC1101-1f6f78?style=flat-square) ![PN532](https://img.shields.io/badge/PN532_NFC-1f6f78?style=flat-square) ![RF](https://img.shields.io/badge/Sub--GHz_RF-1f6f78?style=flat-square) ![IR](https://img.shields.io/badge/IR-1f6f78?style=flat-square)
+
+**Claude Usage Display.** A small physical readout of my live Claude token usage and when the limit resets, because hitting the cap mid-task with no warning is genuinely maddening.
+&nbsp;&nbsp;![ESP8266](https://img.shields.io/badge/ESP8266-1f6f78?style=flat-square) ![OLED](https://img.shields.io/badge/OLED-1f6f78?style=flat-square) ![REST API](https://img.shields.io/badge/REST_API-4a5568?style=flat-square)
+
+**Datasheet → Register Map.** Takes a chip's datasheet PDF and turns it into a verified register map plus a working driver. This one leans software/SaaS.
+&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-4a5568?style=flat-square) ![PDF Parsing](https://img.shields.io/badge/PDF_Parsing-4a5568?style=flat-square) ![Codegen](https://img.shields.io/badge/Codegen-4a5568?style=flat-square)
+
+**Gestura** *(capstone)*. A wrist-worn wearable that reads hand gestures from IMU motion data, with the model trained and then run entirely on the microcontroller. The clearest version of the thing I'm after.
+&nbsp;&nbsp;![ESP32](https://img.shields.io/badge/ESP32-1f6f78?style=flat-square) ![TinyML](https://img.shields.io/badge/TinyML-1f6f78?style=flat-square) ![IMU](https://img.shields.io/badge/IMU-1f6f78?style=flat-square)
+
+**Tiny Tapeout** *(next)*. Taking a small digital design all the way to fabricated silicon.
+&nbsp;&nbsp;![Digital Design](https://img.shields.io/badge/Digital_Design-1f6f78?style=flat-square) ![Verilog](https://img.shields.io/badge/Verilog-1f6f78?style=flat-square) ![ASIC](https://img.shields.io/badge/ASIC-1f6f78?style=flat-square)
+
+---
+
+## Stack
+
+The things I actually reach for, not everything I've touched.
+
+**Embedded**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white)
+
+**ML**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**3D web**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+---
+
+## Off the screen
+
+Licensed table tennis coach, still training most weeks. Chess, and strength work on the days I'm not soldering.
+
+<br>
+
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=PiyushPapaya&icon=0&color=0)](https://visitcount.itsvg.in)
-
-*Thanks for stopping by! Check out my repos and let's build something together.*
-
+<sub>Currently building <b>Gestura</b> and taking my first design to silicon. &nbsp;·&nbsp; Say hi: <a href="mailto:nagpal.2352@gmail.com">nagpal.2352@gmail.com</a></sub>
 </div>
+
+<!-- Optional live GitHub stats. The shared server rate-limits and shows a broken image (that's what you saw),
+     so it's left out on purpose. To add reliable stats, self-host the widget and drop the card in here:
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
