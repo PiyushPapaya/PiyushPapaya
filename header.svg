@@ -1,43 +1,16 @@
 <svg width="1000" height="240" viewBox="0 0 1000 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Piyush Nagpal — Chip Design × Machine Learning × Embedded Systems">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="240" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0a1018"/><stop offset="0.55" stop-color="#0b1a22"/><stop offset="1" stop-color="#0c2b30"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <rect width="1000" height="240" rx="14" fill="url(#bg)"/>
-  <g stroke="#2dd4bf" stroke-width="1" opacity="0.10" fill="none">
-    <path d="M0 44 H128 V74 H214"/><path d="M0 204 H96 V172 H184"/><path d="M1000 214 H884 V182 H774"/>
+  <rect width="1000" height="240" fill="#0d0d0c"/>
+  <g stroke="#f2ebdd" stroke-width="1.5" opacity="0.45" fill="none">
+    <path d="M30 46 V30 H46"/>
+    <path d="M954 30 H970 V46"/>
+    <path d="M30 194 V210 H46"/>
+    <path d="M954 210 H970 V194"/>
   </g>
-  <g fill="#2dd4bf" opacity="0.18"><circle cx="214" cy="74" r="3"/><circle cx="184" cy="172" r="3"/><circle cx="774" cy="182" r="3"/></g>
-  <text x="56" y="72" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="58" font-weight="700" fill="#f1f5f9">Piyush Nagpal</text>
-  <rect x="58" y="88" width="150" height="3" rx="1.5" fill="url(#accent)"/>
-  <text x="58" y="124" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="600" fill="#5eead4">Chip Design × Machine Learning × Embedded Systems</text>
-  <text x="58" y="158" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#93a4b5">Getting machine learning to run directly on the silicon.</text>
-  <text x="58" y="192" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13" letter-spacing="3" fill="#64748b">INCOMING ETIT · TU MÜNCHEN · 18</text>
-  <g transform="translate(812,60)">
-    <g fill="#2dd4bf" opacity="0.9">
-      <rect x="-10" y="18" width="10" height="6" rx="1"/><rect x="-10" y="42" width="10" height="6" rx="1"/><rect x="-10" y="66" width="10" height="6" rx="1"/><rect x="-10" y="90" width="10" height="6" rx="1"/>
-      <rect x="120" y="18" width="10" height="6" rx="1"/><rect x="120" y="42" width="10" height="6" rx="1"/><rect x="120" y="66" width="10" height="6" rx="1"/><rect x="120" y="90" width="10" height="6" rx="1"/>
-      <rect x="18" y="-10" width="6" height="10" rx="1"/><rect x="42" y="-10" width="6" height="10" rx="1"/><rect x="66" y="-10" width="6" height="10" rx="1"/><rect x="90" y="-10" width="6" height="10" rx="1"/>
-      <rect x="18" y="120" width="6" height="10" rx="1"/><rect x="42" y="120" width="6" height="10" rx="1"/><rect x="66" y="120" width="6" height="10" rx="1"/><rect x="90" y="120" width="6" height="10" rx="1"/>
-    </g>
-    <rect x="0" y="0" width="120" height="120" rx="12" fill="#0a1f24" stroke="#2dd4bf" stroke-width="1.6"/>
-    <rect x="12" y="12" width="96" height="96" rx="8" fill="none" stroke="#2dd4bf" stroke-width="0.8" opacity="0.35"/>
-    <g stroke="#2dd4bf" stroke-width="0.8" opacity="0.45">
-      <line x1="32" y1="34" x2="60" y2="34"/><line x1="32" y1="34" x2="60" y2="60"/><line x1="32" y1="34" x2="60" y2="86"/>
-      <line x1="32" y1="60" x2="60" y2="34"/><line x1="32" y1="60" x2="60" y2="60"/><line x1="32" y1="60" x2="60" y2="86"/>
-      <line x1="32" y1="86" x2="60" y2="34"/><line x1="32" y1="86" x2="60" y2="60"/><line x1="32" y1="86" x2="60" y2="86"/>
-      <line x1="60" y1="34" x2="88" y2="47"/><line x1="60" y1="34" x2="88" y2="73"/>
-      <line x1="60" y1="60" x2="88" y2="47"/><line x1="60" y1="60" x2="88" y2="73"/>
-      <line x1="60" y1="86" x2="88" y2="47"/><line x1="60" y1="86" x2="88" y2="73"/>
-    </g>
-    <g fill="#5eead4">
-      <circle cx="32" cy="34" r="3.2"/><circle cx="32" cy="60" r="3.2"/><circle cx="32" cy="86" r="3.2"/>
-      <circle cx="60" cy="34" r="3.2"/><circle cx="60" cy="60" r="3.2"/><circle cx="60" cy="86" r="3.2"/>
-      <circle cx="88" cy="47" r="3.2" fill="#f59e0b"/><circle cx="88" cy="73" r="3.2" fill="#f59e0b"/>
-    </g>
+  <text x="500" y="112" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="58" font-weight="700" fill="#f2ebdd" letter-spacing="1">Piyush Nagpal</text>
+  <g stroke="#cfc6b3" stroke-width="1" opacity="0.7">
+    <line x1="398" y1="140" x2="470" y2="140"/>
+    <line x1="530" y1="140" x2="602" y2="140"/>
   </g>
+  <rect x="497" y="137" width="6" height="6" fill="#cfc6b3" transform="rotate(45 500 140)"/>
+  <text x="500" y="176" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="500" fill="#a89f8d" letter-spacing="1">Chip Design &#215; Machine Learning &#215; Embedded Systems</text>
 </svg>
