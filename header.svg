@@ -1,50 +1,50 @@
-<svg width="1000" height="260" viewBox="0 0 1000 260"
+<svg width="1200" height="240" viewBox="0 0 1200 240"
 xmlns="http://www.w3.org/2000/svg"
 role="img"
-aria-label="Piyush Nagpal — Embedded Systems, Machine Learning, Silicon">
+aria-label="Piyush Nagpal — Chip Design, Machine Learning, Embedded Systems">
 
 <defs>
 
-<linearGradient id="glow">
-<stop stop-color="#f2ebdd" stop-opacity="0"/>
-<stop offset="0.5" stop-color="#f2ebdd"/>
-<stop offset="1" stop-color="#f2ebdd" stop-opacity="0"/>
+<linearGradient id="fade">
+  <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+  <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.7"/>
+  <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
 </linearGradient>
-
-<filter id="blur">
-<feGaussianBlur stdDeviation="3"/>
-</filter>
 
 </defs>
 
 
 <!-- background -->
-<rect width="1000" height="260" fill="#0d0d0c"/>
+<rect width="1200" height="240" fill="#0d1117"/>
 
 
-<!-- circuit traces -->
-<g stroke="#f2ebdd" opacity="0.15" fill="none">
+<!-- subtle chip traces -->
 
-<path d="M80 70 H230 V40 H310"/>
-<path d="M920 70 H770 V40 H690"/>
+<g stroke="#ffffff" stroke-opacity="0.08" fill="none">
 
-<path d="M80 190 H230 V220 H310"/>
-<path d="M920 190 H770 V220 H690"/>
+<path d="M80 60H220V40H300"/>
+<path d="M80 180H220V200H300"/>
+
+<path d="M1120 60H980V40H900"/>
+<path d="M1120 180H980V200H900"/>
 
 </g>
 
 
-<!-- moving signal -->
+<!-- center signal -->
 
-<rect x="0" y="128" width="180" height="2"
-fill="url(#glow)"
-opacity="0.7">
+<rect
+x="-200"
+y="120"
+width="180"
+height="1"
+fill="url(#fade)">
 
 <animate
 attributeName="x"
 from="-200"
-to="1000"
-dur="5s"
+to="1200"
+dur="7s"
 repeatCount="indefinite"/>
 
 </rect>
@@ -54,14 +54,14 @@ repeatCount="indefinite"/>
 <!-- name -->
 
 <text
-x="500"
-y="112"
+x="600"
+y="105"
 text-anchor="middle"
-font-family="Inter,Segoe UI,Arial"
+font-family="Inter, Segoe UI, Arial, sans-serif"
 font-size="64"
-font-weight="750"
-letter-spacing="-1"
-fill="#f2ebdd">
+font-weight="700"
+letter-spacing="-2"
+fill="#ffffff">
 
 Piyush Nagpal
 
@@ -71,62 +71,45 @@ Piyush Nagpal
 
 <!-- divider -->
 
-<g opacity="0.7">
-
-<line x1="360" y1="150"
-x2="470"
-y2="150"
-stroke="#cfc6b3"/>
-
-<line x1="530" y1="150"
-x2="640"
-y2="150"
-stroke="#cfc6b3"/>
+<line
+x1="420"
+y1="140"
+x2="780"
+y2="140"
+stroke="#ffffff"
+stroke-opacity="0.15"/>
 
 
-<circle cx="500"
-cy="150"
-r="4"
-fill="#f2ebdd">
 
-<animate
-attributeName="r"
-values="3;6;3"
-dur="2s"
-repeatCount="indefinite"/>
-
-</circle>
-
-</g>
-
-
+<!-- focus -->
 
 <text
-x="500"
-y="185"
+x="600"
+y="175"
 text-anchor="middle"
-font-family="JetBrains Mono,monospace"
-font-size="15"
+font-family="JetBrains Mono, Consolas, monospace"
+font-size="14"
 letter-spacing="3"
-fill="#a89f8d">
+fill="#c9d1d9">
 
-EMBEDDED • ML • SILICON
+CHIP DESIGN  •  MACHINE LEARNING  •  EMBEDDED SYSTEMS
 
 </text>
 
 
 
-<!-- bottom status -->
+<!-- footer -->
 
 <text
-x="500"
-y="220"
+x="600"
+y="205"
 text-anchor="middle"
-font-family="JetBrains Mono,monospace"
-font-size="11"
-fill="#777">
+font-family="Inter, Arial, sans-serif"
+font-size="12"
+letter-spacing="2"
+fill="#8b949e">
 
-BUILDING SYSTEMS THAT THINK
+ENGINEERING INTELLIGENT HARDWARE
 
 </text>
 
