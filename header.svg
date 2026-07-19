@@ -1,117 +1,71 @@
-<svg width="1200" height="240" viewBox="0 0 1200 240"
-xmlns="http://www.w3.org/2000/svg"
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg"
 role="img"
 aria-label="Piyush Nagpal — Chip Design, Machine Learning, Embedded Systems">
-
-<defs>
-
-<linearGradient id="fade">
-  <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
-  <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.7"/>
-  <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
-</linearGradient>
-
-</defs>
-
-
-<!-- background -->
 <rect width="1200" height="240" fill="#0d1117"/>
 
-
-<!-- subtle chip traces -->
-
-<g stroke="#ffffff" stroke-opacity="0.08" fill="none">
-
-<path d="M80 60H220V40H300"/>
-<path d="M80 180H220V200H300"/>
-
-<path d="M1120 60H980V40H900"/>
-<path d="M1120 180H980V200H900"/>
-
+<!-- static traces -->
+<g fill="none" stroke="#8b949e" stroke-opacity="0.15" stroke-width="1">
+<path d="M113 105H160V40H300"/>
+<path d="M113 135H190V200H300"/>
+<path d="M1087 105H1040V40H900"/>
+<path d="M1087 135H1010V200H900"/>
 </g>
 
+<!-- via dots -->
+<g fill="#2dd4bf" opacity="0.55">
+<circle cx="160" cy="105" r="2"/>
+<circle cx="160" cy="40" r="2"/>
+<circle cx="190" cy="135" r="2"/>
+<circle cx="190" cy="200" r="2"/>
+<circle cx="1040" cy="105" r="2"/>
+<circle cx="1040" cy="40" r="2"/>
+<circle cx="1010" cy="135" r="2"/>
+<circle cx="1010" cy="200" r="2"/>
+</g>
 
-<!-- center signal -->
+<!-- chip icon (left) -->
+<rect x="55" y="95" width="50" height="50" rx="6" fill="#0d1117" stroke="#2dd4bf" stroke-width="1.5" opacity="0.9"/>
+<g stroke="#2dd4bf" stroke-width="1.5" opacity="0.7">
+<line x1="47" y1="105" x2="55" y2="105"/>
+<line x1="47" y1="120" x2="55" y2="120"/>
+<line x1="47" y1="135" x2="55" y2="135"/>
+<line x1="105" y1="105" x2="113" y2="105"/>
+<line x1="105" y1="120" x2="113" y2="120"/>
+<line x1="105" y1="135" x2="113" y2="135"/>
+</g>
 
-<rect
-x="-200"
-y="120"
-width="180"
-height="1"
-fill="url(#fade)">
+<!-- neuron mesh (right) -->
+<g stroke="#2dd4bf" stroke-width="0.75" opacity="0.4">
+<line x1="1105" y1="108" x2="1135" y2="120"/>
+<line x1="1105" y1="132" x2="1135" y2="120"/>
+</g>
+<g fill="#2dd4bf">
+<circle cx="1105" cy="108" r="4"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="1105" cy="132" r="4"><animate attributeName="opacity" values="1;0.5;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="1135" cy="120" r="4"><animate attributeName="opacity" values="0.6;1;0.6" dur="3.1s" repeatCount="indefinite"/></circle>
+</g>
 
-<animate
-attributeName="x"
-from="-200"
-to="1200"
-dur="7s"
-repeatCount="indefinite"/>
-
-</rect>
-
-
+<!-- signal traveling chip -> neuron mesh -->
+<circle r="3.5" fill="#2dd4bf">
+<animateMotion path="M113,105 H160 V40 H1040 V105 H1105" dur="6s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="6s" repeatCount="indefinite"/>
+</circle>
 
 <!-- name -->
-
-<text
-x="600"
-y="105"
-text-anchor="middle"
-font-family="Inter, Segoe UI, Arial, sans-serif"
-font-size="64"
-font-weight="700"
-letter-spacing="-2"
-fill="#ffffff">
-
+<text x="600" y="105" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-2" fill="#ffffff">
 Piyush Nagpal
-
 </text>
-
-
 
 <!-- divider -->
-
-<line
-x1="420"
-y1="140"
-x2="780"
-y2="140"
-stroke="#ffffff"
-stroke-opacity="0.15"/>
-
-
+<line x1="420" y1="140" x2="780" y2="140" stroke="#2dd4bf" stroke-opacity="0.4"/>
 
 <!-- focus -->
-
-<text
-x="600"
-y="175"
-text-anchor="middle"
-font-family="JetBrains Mono, Consolas, monospace"
-font-size="14"
-letter-spacing="3"
-fill="#c9d1d9">
-
-CHIP DESIGN  •  MACHINE LEARNING  •  EMBEDDED SYSTEMS
-
+<text x="600" y="175" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="14" letter-spacing="3" fill="#c9d1d9">
+CHIP DESIGN <tspan fill="#2dd4bf">•</tspan> MACHINE LEARNING <tspan fill="#2dd4bf">•</tspan> EMBEDDED SYSTEMS
 </text>
-
-
 
 <!-- footer -->
-
-<text
-x="600"
-y="205"
-text-anchor="middle"
-font-family="Inter, Arial, sans-serif"
-font-size="12"
-letter-spacing="2"
-fill="#8b949e">
-
+<text x="600" y="205" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="12" letter-spacing="2" fill="#8b949e">
 ENGINEERING INTELLIGENT HARDWARE
-
 </text>
-
-
 </svg>
