@@ -1,7 +1,8 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300"
+<svg width="1500" height="360" viewBox="0 0 1500 360"
 xmlns="http://www.w3.org/2000/svg"
 role="img"
 aria-label="Piyush Nagpal — Chip Design, Machine Learning, Embedded Systems">
+
 <defs>
 <linearGradient id="fade">
   <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
@@ -9,62 +10,79 @@ aria-label="Piyush Nagpal — Chip Design, Machine Learning, Embedded Systems">
   <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
 </linearGradient>
 </defs>
-<rect width="1200" height="300" fill="#0d1117"/>
+
+<!-- background -->
+<rect width="1500" height="360" fill="#0d1117"/>
+
+<!-- subtle chip traces -->
 <g stroke="#ffffff" stroke-opacity="0.08" fill="none">
-<path d="M80 75H220V50H300"/>
-<path d="M80 225H220V250H300"/>
-<path d="M1120 75H980V50H900"/>
-<path d="M1120 225H980V250H900"/>
+  <path d="M100 90H275V60H375"/>
+  <path d="M100 270H275V300H375"/>
+  <path d="M1400 90H1225V60H1125"/>
+  <path d="M1400 270H1225V300H1125"/>
 </g>
+
+<!-- center signal -->
 <rect
-x="-200"
-y="150"
-width="180"
-height="1"
+x="-250"
+y="180"
+width="220"
+height="2"
 fill="url(#fade)">
 <animate
 attributeName="x"
-from="-200"
-to="1200"
+from="-250"
+to="1500"
 dur="7s"
 repeatCount="indefinite"/>
 </rect>
+
+<!-- name -->
 <text
-x="600"
-y="131"
+x="750"
+y="155"
 text-anchor="middle"
 font-family="Inter, Segoe UI, Arial, sans-serif"
-font-size="72"
+font-size="92"
 font-weight="700"
-letter-spacing="-2"
+letter-spacing="-3"
 fill="#ffffff">
 Piyush Nagpal
 </text>
+
+<!-- divider -->
 <line
-x1="420"
-y1="175"
-x2="780"
-y2="175"
+x1="500"
+y1="205"
+x2="1000"
+y2="205"
 stroke="#ffffff"
-stroke-opacity="0.15"/>
+stroke-opacity="0.15"
+stroke-width="2"/>
+
+<!-- focus -->
 <text
-x="600"
-y="219"
+x="750"
+y="260"
 text-anchor="middle"
 font-family="JetBrains Mono, Consolas, monospace"
-font-size="15"
-letter-spacing="3"
+font-size="24"
+font-weight="500"
+letter-spacing="5"
 fill="#c9d1d9">
 CHIP DESIGN  •  MACHINE LEARNING  •  EMBEDDED SYSTEMS
 </text>
+
+<!-- footer -->
 <text
-x="600"
-y="256"
+x="750"
+y="310"
 text-anchor="middle"
 font-family="Inter, Arial, sans-serif"
-font-size="13"
-letter-spacing="2"
+font-size="20"
+letter-spacing="4"
 fill="#8b949e">
 ENGINEERING INTELLIGENT HARDWARE
 </text>
+
 </svg>
