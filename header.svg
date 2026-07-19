@@ -1,32 +1,24 @@
-<svg width="1200" height="240" viewBox="0 0 1200 240"
+<svg width="1200" height="300" viewBox="0 0 1200 300"
 xmlns="http://www.w3.org/2000/svg"
 role="img"
 aria-label="Piyush Nagpal — Chip Design, Machine Learning, Embedded Systems">
 <defs>
 <linearGradient id="fade">
-  <stop offset="0" stop-color="
-#ffffff" stop-opacity="0"/>
-  <stop offset="0.5" stop-color="
-#ffffff" stop-opacity="0.7"/>
-  <stop offset="1" stop-color="
-#ffffff" stop-opacity="0"/>
+  <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+  <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.7"/>
+  <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
 </linearGradient>
 </defs>
-<!-- background -->
-<rect width="1200" height="240" fill="
-#0d1117"/>
-<!-- subtle chip traces -->
-<g stroke="
-#ffffff" stroke-opacity="0.08" fill="none">
-<path d="M80 60H220V40H300"/>
-<path d="M80 180H220V200H300"/>
-<path d="M1120 60H980V40H900"/>
-<path d="M1120 180H980V200H900"/>
+<rect width="1200" height="300" fill="#0d1117"/>
+<g stroke="#ffffff" stroke-opacity="0.08" fill="none">
+<path d="M80 75H220V50H300"/>
+<path d="M80 225H220V250H300"/>
+<path d="M1120 75H980V50H900"/>
+<path d="M1120 225H980V250H900"/>
 </g>
-<!-- center signal -->
 <rect
 x="-200"
-y="120"
+y="150"
 width="180"
 height="1"
 fill="url(#fade)">
@@ -37,50 +29,42 @@ to="1200"
 dur="7s"
 repeatCount="indefinite"/>
 </rect>
-<!-- name -->
 <text
 x="600"
-y="105"
+y="131"
 text-anchor="middle"
 font-family="Inter, Segoe UI, Arial, sans-serif"
-font-size="64"
+font-size="72"
 font-weight="700"
 letter-spacing="-2"
-fill="
-#ffffff">
+fill="#ffffff">
 Piyush Nagpal
 </text>
-<!-- divider -->
 <line
 x1="420"
-y1="140"
+y1="175"
 x2="780"
-y2="140"
-stroke="
-#ffffff"
+y2="175"
+stroke="#ffffff"
 stroke-opacity="0.15"/>
-<!-- focus -->
 <text
 x="600"
-y="175"
+y="219"
 text-anchor="middle"
 font-family="JetBrains Mono, Consolas, monospace"
-font-size="14"
+font-size="15"
 letter-spacing="3"
-fill="
-#c9d1d9">
+fill="#c9d1d9">
 CHIP DESIGN  •  MACHINE LEARNING  •  EMBEDDED SYSTEMS
 </text>
-<!-- footer -->
 <text
 x="600"
-y="205"
+y="256"
 text-anchor="middle"
 font-family="Inter, Arial, sans-serif"
-font-size="12"
+font-size="13"
 letter-spacing="2"
-fill="
-#8b949e">
+fill="#8b949e">
 ENGINEERING INTELLIGENT HARDWARE
 </text>
 </svg>
