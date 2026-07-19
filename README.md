@@ -18,8 +18,8 @@
 
 ## Currently Building
 
-**Gestura** — TinyML gesture-recognition wearable, model running on-device *(capstone, in progress)*
-**Tiny Tapeout** — my first digital design taken all the way to fabricated silicon *(next)*
+**Gestura** — TinyML gesture-recognition wearable, model running on-device *(capstone, in progress)*<br>
+**Tiny Tapeout** — my first digital design taken all the way to fabricated silicon *(next)*<br>
 **The Workbench** — an interactive 3D engineering portfolio *(in progress)*
 
 ---
@@ -106,8 +106,8 @@ Licensed table tennis coach, still training most weeks. Chess, and strength work
 
 ### GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=PiyushPapaya&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&title_color=2dd4bf&icon_color=2dd4bf" height="160" alt="Piyush's GitHub stats">
+<img src="https://github-readme-stats-roan-ten-33.vercel.app/api?username=PiyushPapaya&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&border_color=ffffff&hide_border=false&card_width=480&count_private=true" height="195" alt="Piyush's GitHub stats">
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushPapaya&hide_border=true&theme=dark&layout=compact&langs_count=8&title_color=2dd4bf" height="160" alt="Top languages">
+<img src="https://github-readme-stats-roan-ten-33.vercel.app/api/top-langs/?username=PiyushPapaya&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&border_color=ffffff&hide_border=false&card_width=380&langs_count=8" height="195" alt="Top languages">
 
 </div>
