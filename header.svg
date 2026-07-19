@@ -1,4 +1,4 @@
-<svg width="1500" height="360" viewBox="0 0 1500 360"
+<svg width="1350" height="300" viewBox="0 0 1350 300"
 xmlns="http://www.w3.org/2000/svg"
 role="img"
 aria-label="Piyush Nagpal — Chip Design, Machine Learning, Embedded Systems">
@@ -12,75 +12,75 @@ aria-label="Piyush Nagpal — Chip Design, Machine Learning, Embedded Systems">
 </defs>
 
 <!-- background -->
-<rect width="1500" height="360" fill="#0d1117"/>
+<rect width="1350" height="300" fill="#0d1117"/>
 
 <!-- subtle chip traces -->
 <g stroke="#ffffff" stroke-opacity="0.08" fill="none">
-  <path d="M100 90H275V60H375"/>
-  <path d="M100 270H275V300H375"/>
-  <path d="M1400 90H1225V60H1125"/>
-  <path d="M1400 270H1225V300H1125"/>
+  <path d="M90 75H250V50H340"/>
+  <path d="M90 225H250V250H340"/>
+  <path d="M1260 75H1100V50H1010"/>
+  <path d="M1260 225H1100V250H1010"/>
 </g>
 
 <!-- center signal -->
 <rect
-x="-250"
-y="180"
-width="220"
+x="-220"
+y="150"
+width="200"
 height="2"
 fill="url(#fade)">
 <animate
 attributeName="x"
-from="-250"
-to="1500"
+from="-220"
+to="1350"
 dur="7s"
 repeatCount="indefinite"/>
 </rect>
 
 <!-- name -->
 <text
-x="750"
-y="155"
+x="675"
+y="130"
 text-anchor="middle"
 font-family="Inter, Segoe UI, Arial, sans-serif"
-font-size="92"
+font-size="78"
 font-weight="700"
-letter-spacing="-3"
+letter-spacing="-2.5"
 fill="#ffffff">
 Piyush Nagpal
 </text>
 
 <!-- divider -->
 <line
-x1="500"
-y1="205"
-x2="1000"
-y2="205"
+x1="450"
+y1="170"
+x2="900"
+y2="170"
 stroke="#ffffff"
 stroke-opacity="0.15"
 stroke-width="2"/>
 
 <!-- focus -->
 <text
-x="750"
-y="260"
+x="675"
+y="215"
 text-anchor="middle"
 font-family="JetBrains Mono, Consolas, monospace"
-font-size="24"
+font-size="20"
 font-weight="500"
-letter-spacing="5"
+letter-spacing="4"
 fill="#c9d1d9">
 CHIP DESIGN  •  MACHINE LEARNING  •  EMBEDDED SYSTEMS
 </text>
 
 <!-- footer -->
 <text
-x="750"
-y="310"
+x="675"
+y="260"
 text-anchor="middle"
 font-family="Inter, Arial, sans-serif"
-font-size="20"
-letter-spacing="4"
+font-size="17"
+letter-spacing="3"
 fill="#8b949e">
 ENGINEERING INTELLIGENT HARDWARE
 </text>
