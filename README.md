@@ -6,7 +6,7 @@
 
 
 <a href="https://www.linkedin.com/in/piyush-nagpal-a0b2761b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/piyush.works"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://your-workbench-url.dev"><img src="https://img.shields.io/badge/The_Workbench-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
 <a href="mailto:nagpal.2352@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://discord.com/users/lil.papayaa"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
@@ -18,7 +18,7 @@
 
 ## Currently Building
 
-**Gestura** — TinyML gesture-recognition wearable, model running on-device *(capstone, in progress)*<br>
+**Gestura** — TinyML gesture-to-text glove, model running on-device *(capstone, in progress)*<br>
 **Tiny Tapeout** — my first digital design taken all the way to fabricated silicon *(next)*<br>
 **The Workbench** — an interactive 3D engineering portfolio *(in progress)*
 
@@ -46,10 +46,10 @@ Roughly oldest to newest, so the arc shows.
 &nbsp;&nbsp;![ESP8266](https://img.shields.io/badge/ESP8266-1f6f78?style=flat-square) ![OLED](https://img.shields.io/badge/OLED-1f6f78?style=flat-square) ![REST API](https://img.shields.io/badge/REST_API-4a5568?style=flat-square)
 
 **Datasheet → Register Map.** Takes a chip's datasheet PDF and turns it into a verified register map plus a working driver. This one leans software/SaaS.
-&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-4a5568?style=flat-square) ![PDF Parsing](https://img.shields.io/badge/PDF_Parsing-4a5568?style=flat-square) ![Codegen](https://img.shields.io/badge/Codegen-4a5568?style=flat-square)
+&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-4a5568?style=flat-square) ![PDF Parsing](https://img.shields.io/badge/PDF_Parsing-4a5568?style=flat-square) ![Codegen](https://img.shields.io/badge/Codegen-4a5568?style=flat-square)
 
-**Gestura** *(capstone)*. A wrist-worn wearable that reads hand gestures from IMU motion data, with the model trained and then run entirely on the microcontroller. The clearest version of the thing I'm after.
-&nbsp;&nbsp;![ESP32](https://img.shields.io/badge/ESP32-1f6f78?style=flat-square) ![TinyML](https://img.shields.io/badge/TinyML-1f6f78?style=flat-square) ![IMU](https://img.shields.io/badge/IMU-1f6f78?style=flat-square)
+**Gestura** *(capstone)*. A glove that reads finger movements and turns them into text — six IMUs fused on-device, the model trained and then run entirely on the microcontroller. The clearest version of the thing I'm after.
+&nbsp;&nbsp;![XIAO nRF52840](https://img.shields.io/badge/XIAO_nRF52840-1f6f78?style=flat-square) ![TinyML](https://img.shields.io/badge/TinyML-1f6f78?style=flat-square) ![IMU](https://img.shields.io/badge/IMU-1f6f78?style=flat-square)
 
 **Tiny Tapeout** *(next)*. Taking a small digital design all the way to fabricated silicon.
 &nbsp;&nbsp;![Digital Design](https://img.shields.io/badge/Digital_Design-1f6f78?style=flat-square) ![Verilog](https://img.shields.io/badge/Verilog-1f6f78?style=flat-square) ![ASIC](https://img.shields.io/badge/ASIC-1f6f78?style=flat-square)
